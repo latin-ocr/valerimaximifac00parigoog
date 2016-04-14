@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./valerimaximifac00parigoog_0008.png"; bbox 0 0 3409 5400; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 91 2424 1501 2560">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 91 2424 1501 2560">
+     <span class='ocr_line' id='line_1_1' title="bbox 91 2424 1501 2560; baseline -0.001 -29"><span class='ocrx_word' id='word_1_1' title='bbox 91 2557 92 2560; x_wconf 4' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 268 2424 489 2535; x_wconf 85' lang='grc' dir='ltr'><strong>ΙΟΑΝΝΙ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 521 2427 870 2538; x_wconf 80' lang='lat' dir='ltr'>FRIDERICO</span> <span class='ocrx_word' id='word_1_4' title='bbox 902 2426 1377 2540; x_wconf 86' lang='lat' dir='ltr'><strong>BELLERMANNO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1496 2522 1501 2530; x_wconf 87' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 243 2629 1413 2692">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 243 2629 1413 2692">
+     <span class='ocr_line' id='line_1_2' title="bbox 243 2629 1413 2692; baseline 0.003 -16"><span class='ocrx_word' id='word_1_6' title='bbox 243 2629 360 2678; x_wconf 73' lang='lat' dir='ltr'><strong>mol..</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 372 2632 416 2678; x_wconf 81' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 428 2633 510 2679; x_wconf 81' lang='lat' dir='ltr'>PfflL.</span> <span class='ocrx_word' id='word_1_9' title='bbox 525 2633 577 2678; x_wconf 82' lang='lat' dir='ltr'><strong>DR.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 592 2632 747 2680; x_wconf 75' lang='lat' dir='ltr'>GYMNAsu</span> <span class='ocrx_word' id='word_1_11' title='bbox 760 2633 970 2682; x_wconf 77' lang='lat' dir='ltr'>mvcol’nffl</span> <span class='ocrx_word' id='word_1_12' title='bbox 981 2632 1217 2680; x_wconf 66' lang='lat' dir='ltr'><strong>mmmmm</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1230 2633 1413 2692; x_wconf 60' lang='lat' dir='ltr'><strong>nmmum,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1710 5400">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1710 5400">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1710 5400; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1710 5400; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
